@@ -1,0 +1,26 @@
+{
+  "name": "global_profile",
+  "version": "0.0.1",
+  "description": "This is restful api for global profile data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surender7790/GlobalProfile.git"
+  },
+  "keywords": [
+    "global",
+    "profile"
+  ],
+  "author": "Surender Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surender7790/GlobalProfile/issues"
+  },
+  "homepage": "https://github.com/surender7790/GlobalProfile#readme",
+  "devDependencies": {
+    "node-sass": "^3.7.0"
+  }
+}
